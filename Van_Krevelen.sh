@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Autores: Agostina Giunta y Federico Esteban
+
 #	Variables del Mapa
 #	-----------------------------------------------------------------------------------------------------------
 #	Titulo de la figura
