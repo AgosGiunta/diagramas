@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-# Temas a ver:
-# 1. Usar archivo con distintos simbolos y colores
-
 #	Variables del Mapa
 #	-----------------------------------------------------------------------------------------------------------
 #	Titulo de la figura
@@ -78,7 +75,7 @@ gmt begin $title png
 	85,135,TYPE III
 	85,30,TYPE IV
 	END
-	
+
 
 #	Graficar Datos como símbolos. Color (-G), Borde (-W) y forma (-S)
 #	**************************************************************
