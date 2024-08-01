@@ -28,7 +28,7 @@
 #	Dibujar mapa
 #	-----------------------------------------------------------------------------------------------------------
 #	Iniciar sesion y tipo de figura
-gmt begin $title png
+gmt begin generated/$title png
 	
 #	Setear la region y proyeccion
 	gmt basemap -R$REGION -J$PROJ -B+n
