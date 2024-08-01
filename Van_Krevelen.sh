@@ -78,6 +78,7 @@ gmt begin $title png
 	85,135,TYPE III
 	85,30,TYPE IV
 	END
+	
 
 #	Graficar Datos como símbolos. Color (-G), Borde (-W) y forma (-S)
 #	**************************************************************
